@@ -6,7 +6,7 @@ use VCS::Hms::Dir;
 use VCS::Hms::File;
 use VCS::Hms::Version;
 
-$VERSION = '0.03';
+$VERSION = '0.04';
 
 my $LOG_CMD = "fhist";
 
@@ -100,7 +100,7 @@ has the appropriate directory listed.
 
 =head1 COPYRIGHT
 
-    Copyright (c) 2003      Greg McCarroll.
+    Copyright (c) 2003-2008 Greg McCarroll.
     Copyright (c) 1998-2001 Leon Brocard.
 
 All rights reserved. This program is free software; you can

@@ -1,5 +1,7 @@
 package VCS::Hms::Dir;
 
+use VCS::Dir;
+
 @ISA = qw(VCS::Hms VCS::Dir);
 
 use strict;
